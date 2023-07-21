@@ -4,13 +4,13 @@ print("The first person name is " , names[0])
 
 names[0]='KevinGonzalez'
 names[1]='RevoCoder'
-names[2]='ThanZawAou'
+names[2]='Noob'
 names[3]='Robots'
 
 print(names)
 print(len(names))
 
-newList=['Tankhoe', 'Village']
+newList=['Ponnagyun', 'Town']
 
 fullList=newList+names
 
